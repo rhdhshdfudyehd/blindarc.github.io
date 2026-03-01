@@ -1,1 +1,1 @@
-# blindarc.github.io
+# github.io
